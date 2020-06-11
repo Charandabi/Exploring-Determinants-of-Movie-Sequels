@@ -96,7 +96,7 @@ In this section we utilize `BeautifulSoup` to extract the detailed information o
 
 - Provided in "Alternative Approaches" folder include:
     - <b>Ratings Main Code with Output.ipynb:</b> Extracts the information of ratings, percentage of users voted, and the total number of users from 1000 titles and stores them in a list.
-    - <b>Ratings, Percentage of Users Voted, and the Total Number of Users.ipynb:</b> Extracts the information for ratings, percentage of users voted, and the total number of users.
+    - <b>Votes Main Code with Output.ipynb:</b> Extracts the information for ratings, percentage of users voted, and the total number of users.
 
 It should be noted that dataframe structures suggested in chapter 2 have superiority as opposed to the list structure suggested by these approaches since they enable the user to access these pieces of information more conveniently, given any selected movie title.
 However, depends on the context of analysis, list structure might also be prefered.
