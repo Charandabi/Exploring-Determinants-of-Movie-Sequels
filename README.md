@@ -55,6 +55,14 @@ This limitation was also addressed inside in this section
 
 # 3. Increasing the granularity of data
 
+In this section we are striving for accessing a more detailed information for selected attributes, including awards, taglines and synopsis. To this end, three steps need to be followed:
+
+**Step 1**: Developing a code to reach into over selected movie links
+
+**Step 2**: Using `BeautifulSoup` functions to extract data on Awards, Plots, Taglines.
+
+**Step 3**: Cleaning, organizing, and creating a new object to write into another file for Analysis 
+
 - <b>Awards:</b> IMDB provides a detailed level of information about different types of awards, movie festivals or companies that these awards are sponsered by and whether a movie was only nominated for this award or won it as well. 
 In this section we summarize the frequency of pertinent data for up to 100 movies, using counter object for the following data analysis objectives.
 
