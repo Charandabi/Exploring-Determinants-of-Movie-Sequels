@@ -35,6 +35,9 @@ This project was developed in three steps:
   - Awards
   - Taglines
   - Plots
+ - Alternative Approaches
+   - Release Dates, Movie Lenghts, and Movie Ratings
+   - Ratings, Percentage of Users Voted, and the Total Number of Users
 
 # 1. Data acquisition from a single title
 
@@ -86,6 +89,16 @@ In this section we summarize the frequency of pertinent data for up to 100 movie
     - <b>Plot Main Code.ipynb:</b> Extracts information of movies at once and stores plots for a collection of 100 movies in a JSON file called "plot_summary".
     - <b>plot_summary.json</b>: The JSON file created by the scraping tool. 
     - <b>Plot Loads JSON.ipynb:</b> Loades output of `Counter` object after applying it over 100 movies, loaded from the previously-created JSON file.
+
+# 4. Alternative Approaches
+
+In this section we utilize `BeautifulSoup` to extract the detailed information of selected attributes listed below in a list object:
+
+  - Release Dates, Movie Lenghts, and Movie Ratings
+  - Ratings, Percentage of Users Voted, and the Total Number of Users
+
+It should be noted that dataframe structures suggested in chapter 2 have superiority as opposed to the list structure suggested by these approaches since they enable the user to access these pieces of information more conveniently, given any selected movie title.
+However, depends on the context of analysis, list structure might also be prefered.
 
 # Limitations 
 
