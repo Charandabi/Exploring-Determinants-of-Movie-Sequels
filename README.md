@@ -1,7 +1,7 @@
 # DSCI 511: Data Acquisition and Pre-Processing 
 # ِExploring Determinants of Movie Sequels: A Data-Driven Approach from Online Resources 
 
-<b> Nelson Blickman, Deepika Burre, Sina E. Charandabi </b>
+<b> Nelson Blickman _nb939@drexel.edu_, Deepika Burre _dmb498@drexel.edu_, Sina E. Charandabi _se456@drexel.edu_ </b>
 
 Department of Decision Science, College of Computing and Informatics, Drexel University
 
@@ -10,7 +10,18 @@ Department of Decision Science, College of Computing and Informatics, Drexel Uni
 > _Movies, as the most popular and prominent products of the mass media entertainment, have been increasingly generated considerable interest in both commercial and research communities. Due to their short life cycle, studios have found franchises or sequels as the most effective solution to deal with the issue, a fact that is evident in many profitable series such as James bond, Star Wars, Avengers, etc. Thus, determinants of the profitability of movie sequels is expected to not only bring valuable insights for production companies, 
 but also reveal managerial implications for scholarly works in the field of new product development. This project intends to suggest a data acquisition tool
 which enables the user to extract high level information of movie sequels from a user-created list in Internet Movie Database (IMDB) and integrate them for the following 
-data analysis objectives._  
+data analysis objectives._
+
+# Implications
+A good estimation of box-office revenue helps companies to make proper decisions on the number and release time of new sequels and making wise decisions on pricing, advertising and distribution strategies. To this end, preferences or pre-launch awareness of movies which viewers develop based on their prior experiences play an important role. Given an appropriate dataset of contributing factors, one will expect to address various interesting questions:
+- What is the best time to release a movie sequel?
+- Does budget increase guarantee the box office hit?
+- Does winning awards facilitate the success of movies coming later in the sequel? 
+- Does changing director or writer negatively affect the success of a movie sequel?
+- What is the effect of removing a leading character or adding a new one in the sequel?
+- Which genres are making the highest profits in movie sequels? 
+- How do viewers rate movies differently across the sequel?
+- …
 
 # Data Source
 
