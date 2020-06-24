@@ -1,9 +1,9 @@
 # DSCI 511: Data Acquisition and Pre-Processing 
 # ِExploring Determinants of Movie Sequels: A Data-Driven Approach from Online Resources 
 
-<b> Nelson Blickman _nb939@drexel.edu_, Deepika Burre _dmb498@drexel.edu_, Sina E. Charandabi _se456@drexel.edu_ </b>
+<b> Sina E. Charandabi _se456@drexel.edu_, Nelson Blickman _nb939@drexel.edu_, Deepika Burre _dmb498@drexel.edu_ </b>
 
-Department of Decision Science, College of Computing and Informatics, Drexel University
+Department of Data Science, College of Computing and Informatics, Drexel University
 
 # Inspiration 
 
